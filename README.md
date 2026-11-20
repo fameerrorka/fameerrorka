@@ -21,6 +21,6 @@
 
 <h3 align="center">Stats</h3>
 
-<p align="center">
-  <a href="https://discord.com/users/850837272336400414"><img src="https://lanyard.cnrad.dev/api/850837272336400414?bg=2f3136&theme=dark" /></a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fameerrorka&theme=tokyonight&locale=ru&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+
