@@ -1,110 +1,21 @@
-<div align="center">
+<br/> <img src="https://img.shields.io/badge/ИМЯ-Игорь-21262d?style=for-the-badge&labelColor=0d1117" /> <img src="https://img.shields.io/badge/ВОЗРАСТ-18-21262d?style=for-the-badge&labelColor=0d1117" /> <img src="https://img.shields.io/badge/СТРАНА-Россия-21262d?style=for-the-badge&labelColor=0d1117" /> <img src="https://img.shields.io/badge/РОЛЬ-FullStack-21262d?style=for-the-badge&labelColor=0d1117" /> </div> <br/> <h2 align="center">О СЕБЕ</h2> <p align="center"> Меня зовут Игорь, мне 18 лет, я фулстек-разработчик из России.<br/> Делаю проекты от начала до конца: интерфейс, серверная часть, базы данных и деплой.<br/> Отдельное направление — <b>Discord-боты</b> и программы на разных языках.<br/> Работаю на Linux, серверы поднимаю через Docker и Nginx. </p> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=2&section=header" width="100%" /> <br/> <h2 align="center">КОНТАКТЫ</h2> <div align="center"> <a href="https://vk.ru/error_zxc" target="_blank"> <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=VK&logoColor=white" /> </a> &nbsp; <a href="https://discord.com/users/850837272336400414" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=Игорь&fontSize=56&fontColor=4680C2&fontAlignY=48&desc=FullStack%20developer%20/%20Russia&descSize=16&descColor=8b949e&descAlignY=72" width="100%" />
+<br/><br/>
 
-<img src="https://img.shields.io/badge/возраст-18-4680C2?style=flat-square&labelColor=161b22" />
-<img src="https://img.shields.io/badge/роль-FullStack-4680C2?style=flat-square&labelColor=161b22" />
-<img src="https://img.shields.io/badge/страна-Россия-4680C2?style=flat-square&labelColor=161b22" />
-<img src="https://img.shields.io/badge/статус-открыт%20к%20проектам-2ea043?style=flat-square&labelColor=161b22" />
+<a href="https://discord.com/users/850837272336400414" target="_blank"> <img src="https://lanyard.cnrad.dev/api/850837272336400414?showDisplayName=true&theme=dark&bg=0d1117" /> </a> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=2&section=header" width="100%" /> <br/> <h2 align="center">ЯЗЫКИ И ТЕХНОЛОГИИ</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,react,nodejs,php,rust,lua&perline=10&theme=dark" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=discord,npm,git,github,html,css,linux,docker,nginx,vscode&perline=10&theme=dark" /> </div> <br/> <table align="center"> <tr> <td align="center" width="230"><b>Языки</b></td> <td align="center" width="230"><b>Веб</b></td> <td align="center" width="230"><b>Боты и программы</b></td> <td align="center" width="230"><b>Инфраструктура</b></td> </tr> <tr> <td align="center" valign="top"> Python<br/>JavaScript<br/>TypeScript<br/>Java<br/>C#<br/>PHP<br/>Rust<br/>Lua </td> <td align="center" valign="top"> React<br/>Node.js<br/>HTML<br/>CSS<br/>npm </td> <td align="center" valign="top"> discord.py<br/>discord.js<br/>JDA<br/>Discord.Net<br/>Desktop-программы </td> <td align="center" valign="top"> Linux<br/>Docker<br/>Nginx<br/>Git </td> </tr> </table> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=2&section=header" width="100%" /> <br/> <h2 align="center">БАЗЫ ДАННЫХ</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&perline=4&theme=dark" />
 
-<h3 align="center">О себе</h3>
+<br/><br/>
 
-<p align="center">
-Меня зовут Игорь, мне 18. Делаю веб-проекты целиком: интерфейс, серверная часть,<br/>
-база данных, деплой. Работаю на Linux, серверы поднимаю через Docker и Nginx.<br/>
-Основной язык — TypeScript, параллельно пишу на Rust и Lua.
-</p>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white" /> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=2&section=header" width="100%" /> <br/> <h2 align="center">НАПРАВЛЕНИЯ</h2> <table align="center"> <tr> <td width="260" valign="top" align="center"> <b>Discord-боты</b><br/><br/> Команды, модерация, экономика, музыка, базы данных. Пишу на Python, JavaScript, Java и C#. </td> <td width="260" valign="top" align="center"> <b>Веб-приложения</b><br/><br/> Интерфейсы на React, серверная часть на Node.js и PHP, API и работа с базами данных. </td> <td width="260" valign="top" align="center"> <b>Программы</b><br/><br/> Утилиты и приложения на Python, C#, Java и Rust. Скрипты и моды на Lua. </td> </tr> </table> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=2&section=header" width="100%" /> <br/> <h2 align="center">СТАТИСТИКА</h2> <div align="center"> <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=fameerrorka&theme=dark&background=0d1117&ring=8b949e&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&locale=ru&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> </a>
 
-<br/>
+<br/><br/>
 
-<h3 align="center">Контакты</h3>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fameerrorka&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=c9d1d9&locale=ru" /> &nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fameerrorka&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8&locale=ru" />
 
-<p align="center">
-  <a href="https://vk.ru/error_zxc" target="_blank">
-    <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=VK&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/850837272336400414" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://discord.com/users/850837272336400414" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/850837272336400414?showDisplayName=true&theme=light" />
-  </a>
-</p>
-
-<br/>
-
----
-
-<h3 align="center">Стек</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,npm,php,rust,lua,mysql,linux,docker,nginx&perline=11" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200"><b>Frontend</b></td>
-    <td align="center" width="200"><b>Backend</b></td>
-    <td align="center" width="200"><b>Data</b></td>
-    <td align="center" width="200"><b>Infra</b></td>
-  </tr>
-  <tr>
-    <td align="center">JavaScript<br/>TypeScript</td>
-    <td align="center">Node.js<br/>PHP<br/>Rust<br/>Lua</td>
-    <td align="center">MySQL</td>
-    <td align="center">Linux<br/>Docker<br/>Nginx<br/>npm</td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<h3 align="center">Чем занимаюсь</h3>
-
-<table align="center">
-  <tr>
-    <td width="260" valign="top">
-      <b>Интерфейсы</b><br/><br/>
-      Верстка и клиентская логика на JavaScript и TypeScript. Слежу за тем, чтобы страница была понятной и быстрой.
-    </td>
-    <td width="260" valign="top">
-      <b>Серверная часть</b><br/><br/>
-      API и бизнес-логика на Node.js и PHP, работа с MySQL, структура данных и запросы.
-    </td>
-    <td width="260" valign="top">
-      <b>Деплой</b><br/><br/>
-      Контейнеры в Docker, проксирование через Nginx, настройка Linux-серверов.
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<h3 align="center">Статистика</h3>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=fameerrorka&theme=tokyonight&locale=ru&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fameerrorka&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fameerrorka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=ru" />
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fameerrorka&bg_color=0d1117&color=c9d1d9&line=8b949e&point=ffffff&area=true&area_color=8b949e&hide_border=true" width="100%" /> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:8b949e,100:0d1117&height=2&section=header" width="100%" />
